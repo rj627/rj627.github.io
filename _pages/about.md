@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: PhD Candidate at the <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -18,7 +17,8 @@ Hello! I'm Rahul Jayaraman <a href="https://pronouns.org/what-and-why">(he/him)<
 with the <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>. I use the
 <a href="tess.mit.edu">Transiting Exoplanet Survey Satellite</a> (TESS) to study things that are <i>not</i> exoplanets. 
 
-Throughout my PhD, I've become an expert at analyzing all forms of TESS data for pretty much any astrophysical science case.
+Throughout my PhD, I've become an expert at analyzing all forms of TESS data for pretty much any astrophysical science case that
+involves studying photometric variability.
 My main scientific interest lies in <b>transient science and multi-messenger astronomy</b>. I'm especially interested in using TESS
 to find <a href="https://arxiv.org/abs/2308.05148">optical counterparts to gamma-ray bursts</a> and 
 <a href="https://arxiv.org/abs/2302.04881">gravitational-wave mergers</a> through the use of a transient search 
