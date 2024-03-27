@@ -1,6 +1,21 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ApJL":
+  url: https://iopscience.iop.org/journal/2041-8205
+
+"MNRAS":
+  url: https://academic.oup.com/mnras
+
+"NatAs":
+  url: https://www.nature.com/natastron/
+
+"Nature":
+  url: https://www.nature.com/
+
+"PASA":
+  url: https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia
+
+"RNAAS":
+  url: https://iopscience.iop.org/journal/2515-5172
