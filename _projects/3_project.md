@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: other photometric variability
+description: characterizing magnetic stars and multiple stars
+img: assets/img/multi.png
 importance: 3
 category: work
 ---

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Transient Searches in TESS
-description: Using TESS FFIs to find transients
+title: Transient Searches
+description: utilizing the TESS FFIs
 importance: 1
+img: assets/img/tess_overlap.png
 category: work
 related_publications: 2023arXiv230805148J,2023ApJ...948L...3M
 ---
