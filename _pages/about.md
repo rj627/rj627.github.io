@@ -35,3 +35,5 @@ and have been involved in Diversity, Equity, and Inclusion (DEI) work both withi
 Outside of astrophysics, I enjoy <a href="https://my.flightradar24.com/ririfan1">airplanes 
 and travel</a>, rock climbing, fine dining, watching foreign TV shows, and listening 
 to EDM, among other things.
+
+<i>This website is still a work in progress.</i>
