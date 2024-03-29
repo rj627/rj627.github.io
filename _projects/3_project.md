@@ -7,74 +7,23 @@ importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The pipeline I developed to find unique pulsating stars (see <a href="/projects/2_project">here</a>) was also useful in finding and characterizing
+(a) multiple stellar systems, as well as (b) magnetic stars. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<ul>
+    <li> I worked with a large team of amateur astronomers/citizen scientists to analyze
+    BU CMi, <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.4220P/abstract">the tightest-known flat 
+    quadruple system</a>. This was discovered both by my pipeline and independently by a group of visual surveyors.
+    Given that it was bright enough to be observed from the ground by small telescopes, including KELT, we were 
+    able to calculate the system parameters--including apsidal precession--to unprecedented precision.</li>
+    <li> I used TESS to present the <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...924L..10J/abstract">first-ever
+    characterization</a> of a magnetospheric star based solely on
+    photometric variability. With follow-up observations to determine a magnetic field, we were able to
+    show that TESS data is useful to study magnetically trapped material. The same analyses were extended
+    to M dwarfs, a small fraction of which exhibit corotating clouds of trapped material 
+    (<a href="https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract">most recent paper</a>). </li>
+    <li> I was heavily involved in the creation and curation of the 
+    <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3995K/abstract">first catalog of quadruple stars</a>
+    with TESS, as well as analyses of magnetic stars (<a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.2629J/abstract">Ap stars</a>, and 
+    <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.524L..21J/abstract">Wolf-Rayet stars</a>).</li>
+</ul>

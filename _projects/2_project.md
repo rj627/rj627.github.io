@@ -5,77 +5,35 @@ description: on the hunt for roAp stars and TTPs
 img:  assets/img/ttp.png
 importance: 2
 category: work
-giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+TESS's 2-minute and 20-s cadence light curves are invaluable for asteroseismology. TESS has 
+facilitated the discovery of a new type of pulsating star in a binary, wherein the gravitational
+field of the companion pulls the pulsations in line with the tidal axis of the binary. The
+observational signatures of this include pulsation modes split by the orbital frequency that occur
+at the same ``echelle phase'' (pulsation frequency `mod` orbital frequency, normalized to the orbital frequency).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I've developed a pipeline that searches the 2-minute and 20-s cadence data for these stars, and
+we've found over 50 examples of these stars. I led the 
+<a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...928L..14J/abstract">discovery paper</a> of the first <b>evolved</b>
+tidally tilted pulsator, in an subdwarf B-white dwarf binary that is a Type Ia supernova progenitor. This
+pipeline also discovered the <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.3378Z/abstract">first 
+''tri-axial'' pulsator</a>, and has been instrumental in searches for other stars that don't necessarily
+fit established asteroseismic models (e.g., <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4765K/abstract">HD 42477</a>).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+My pipeline has also been able to identify a unique long-period sdB-delta Scuti binary. In the discovery paper,
+we propose a novel evolutionary pathway for these long-period binaries that can explain these observations, 
+and allows for intermediate-period sdB stars in binaries.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/265435_ech.png" title="Echelle for HD 265435" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sdb_dsct_sed.png" title="SED fit of HD 265435" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Left: A zoom in into features of the echelle showing the numerous tidally split modes in HD 265435. Right: A fit to the 
+    spectral energy distribution of TIC 5724661, a potential intermediate-period sdB-delta Scuti binary.
 </div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

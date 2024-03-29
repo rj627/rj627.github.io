@@ -1,21 +1,35 @@
 "ApJ":
   url: https://iopscience.iop.org/journal/0004-637X
-  color: "#00369f"
+  color: "blue"
+
+"AJ":
+  url: https://iopscience.iop.org/journal/1538-3881
+  color: "green"
 
 "ApJL":
   url: https://iopscience.iop.org/journal/2041-8205
+  color: "purple"
 
 "MNRAS":
   url: https://academic.oup.com/mnras
+  color: "red"
 
 "NatAs":
   url: https://www.nature.com/natastron/
+  color: "orange"
 
 "Nature":
   url: https://www.nature.com/
+  color: "orange"
 
 "PASA":
   url: https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia
+  color: "black"
 
 "RNAAS":
   url: https://iopscience.iop.org/journal/2515-5172
+  color: "gray"
+
+"ApJS":
+  url: https://iopscience.iop.org/journal/0067-0049
+  color: "teal"

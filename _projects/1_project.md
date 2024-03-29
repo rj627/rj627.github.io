@@ -5,7 +5,6 @@ description: utilizing the TESS FFIs
 importance: 1
 img: assets/img/tess_overlap.png
 category: work
-related_publications: 2023arXiv230805148J,2023ApJ...948L...3M
 ---
 
 TESS has a 2300 sq. deg field of view that's amenable to searching for counterparts to poorly-localized transient events, including
@@ -27,7 +26,8 @@ that TESS observed can be found at <a href="https://tess.mit.edu/public/tesstran
     </div>
 </div>
 <div class="caption">
-    Left: An overlap between the TESS field of view and the Fermi-GBM localization of the short GRB 231012A. Right: The TESS light curve of
+    Left: An overlap between the TESS field of view and the Fermi-GBM localization of the short GRB 231012A (using tools developed for
+    <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...948L...3M/abstract">Mo et al. 2023</a>). Right: The TESS light curve of
     GRB 230307A, found to be associated with a binary neutron star merger, shows a clear prompt emission component followed by a 
-    rising and falling afterglow.
+    rising and falling afterglow (<a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230805148J/abstract">Jayaraman et al. 2023</a>).
 </div>
