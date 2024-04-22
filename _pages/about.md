@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I'm Rahul Jayaraman <a href="https://pronouns.org/what-and-why">(he/him)</a>, a 5th-year PhD student in the <a href="https://physics.mit.edu/">MIT Department of Physics</a>, and affiliated
 with the <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>. I use the
-<a href="tess.mit.edu">Transiting Exoplanet Survey Satellite</a> (TESS) to study things that are <i><b>not</b></i> exoplanets. 
+<a href="https://tess.mit.edu">Transiting Exoplanet Survey Satellite</a> (TESS) to study things that are <i><b>not</b></i> exoplanets. 
 
 Throughout my PhD, I've become an expert at analyzing all forms of TESS data for pretty much any astrophysical science case that
 involves studying photometric variability.
