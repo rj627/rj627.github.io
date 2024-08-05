@@ -14,9 +14,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Rahul Jayaraman <a href="https://pronouns.org/what-and-why">(he/him)</a>, a 5th-year PhD student in the <a href="https://physics.mit.edu/">MIT Department of Physics</a>, and affiliated
+Hello! I'm Rahul Jayaraman <a href="https://pronouns.org/what-and-why">(he/him)</a>, a 6th-year PhD student in the <a href="https://physics.mit.edu/">MIT Department of Physics</a>, and affiliated
 with the <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>. I use the
-<a href="https://tess.mit.edu">Transiting Exoplanet Survey Satellite</a> (TESS) to study things that are <i><b>not</b></i> exoplanets. 
+<a href="https://tess.mit.edu">Transiting Exoplanet Survey Satellite</a> (TESS) to study things that are <i><b>not</b></i> exoplanets. <b>I am currently on the postdoc job market!</b>
 
 Throughout my PhD, I've become an expert at analyzing all forms of TESS data for pretty much any astrophysical science case that
 involves studying photometric variability.
@@ -31,7 +31,7 @@ I've been heavily involved in <a href='/service'>departmental service work</a>, 
 Graduate Student Council</a> from 2021-2022, and as the Physics representative to the <a href="https://mitgsu.org/">MIT Graduate Student Union</a> Bargaining Committee
 from 2022-2023. I was also one of the first graduate student readers for the MIT Physics admissions committee (from 2020-2021),
 and have been involved in Diversity, Equity, and Inclusion (DEI) work both within MKI and the Physics Department. A full listing
-of my service activities (and publications) can be found in <a href="/cv">my CV</a> (current as of 2024 March).
+of my service activities (and publications) can be found in <a href="/cv.pdf">my CV</a> (current as of 2024 July).
 
 Outside of astrophysics, I enjoy <a href="https://my.flightradar24.com/ririfan1">airplanes 
 and travel</a>, rock climbing, fine dining, watching foreign TV shows, and listening 
