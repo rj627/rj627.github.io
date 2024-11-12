@@ -7,14 +7,18 @@ nav: true
 nav_order: 4
 ---
 
-<h2>Seminars and Small-Format Talks</h2>
+<h2>Invited Seminars and Small-Format Talks</h2>
 
 <ul>
+    <li> 2024 November, "Using TESS to Study GRBs and Other Transients." Observer Lunch, Northwestern/CIERA, Evanston, IL <i>(upcoming)</i></li>
+    <li> 2024 October, "Time-Domain Astrophysics with TESS." CCAPP Seminar, The Ohio State University, Columbus, OH <b style="color:#e63cf7">(invited)</b> </li>
+    <li> 2024 October, "Detecting and Characterizing Gamma-Ray Bursts with TESS." Caltech Tea Talk, Pasadena, CA</li>
+    <li> 2024 September, "Detecting and Characterizing Optical Transients with TESS." High-Energy Astrophysics Lunch, Cornell University, Ithaca, NY <b style="color:#e63cf7">(invited)</b> </li>
     <li> 2024 April, "Using TESS to Study Gamma-Ray Bursts." Transient Science @ Space Telescope Seminar Series, Space
-    Telescope Science Institute, Baltimore, MD</li>
-    <li> 2024 April, "Using TESS to Characterize GRB Prompt Emission and Afterglows." GRB Lunch series, NASA/Goddard Space Flight Center, Greenbelt, MD</li>
-    <li> 2023 December, "Detecting and Characterizing GRBs with TESS." ULTRASAT GRB Working Group***</li>
-    <li> 2023 October, "Detecting and Characterizing GRBs with TESS." Harvard ITC Lunch Seminar Series, Harvard/Smithsonian CfA, Cambridge, MA</li>
+    Telescope Science Institute, Baltimore, MD <b style="color:#e63cf7">(invited)</b> </li>
+    <li> 2024 April, "Using TESS to Characterize GRB Prompt Emission and Afterglows." GRB Lunch series, NASA/Goddard Space Flight Center, Greenbelt, MD <b style="color:#e63cf7">(invited)</b> </li>
+    <li> 2023 December, "Detecting and Characterizing GRBs with TESS." ULTRASAT GRB Working Group*** <b style="color:#e63cf7">(invited)</b> </li>
+    <li> 2023 October, "Detecting and Characterizing GRBs with TESS." Harvard ITC Lunch Seminar Series, Harvard/Smithsonian CfA, Cambridge, MA <b style="color:#e63cf7">(invited)</b> </li>
     <li> 2023 June, "Using TESS to find Transients." The Transient Universe 2023 workshop, Cargèse, Corsica, France</li>
     <li> 2023 April, "Data Analysis with TESS." Invited lecture for PSYC 201 at UMass Boston</li>
     <li> 2020 November, "A Transient Detection Pipeline for TESS FFIs." TESS Science Update Meeting***</li>

@@ -1,10 +1,9 @@
 ---
-layout: cv
-permalink: /cv.pdf
+layout: default
+redirect_to: https://drive.google.com/file/d/15oNMD-4PipdFS3q4nLczaJlm2NJ3TqJj/view?usp=sharing
 title: cv
 nav: true
 nav_order: 6
-cv_pdf: example_pdf.pdf
 toc:
   sidebar: left
 ---
