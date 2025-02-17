@@ -18,7 +18,7 @@ Hello! I'm Rahul Jayaraman <a href="https://pronouns.org/what-and-why">(he/him)<
 with the <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>. I use the
 <a href="https://tess.mit.edu">Transiting Exoplanet Survey Satellite</a> (TESS) to study things that are <i><b>not</b></i> exoplanets. 
 
-<b style="color:#46d51c">I am currently on the postdoc job market!</b>
+<b style="color:#46d51c">I will be starting as a <a href="https://as.cornell.edu/research/klarman-fellowships">Klarman Fellow</a> at Cornell University next year! Read about my planned research <a href="https://as.cornell.edu/news/new-klarman-fellows-join-college-arts-and-sciences">here</a>.</b>
 
 Throughout my PhD, I've become an expert at analyzing all forms of TESS data for pretty much any astrophysical science case that
 involves studying photometric variability.
