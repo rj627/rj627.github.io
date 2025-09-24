@@ -10,7 +10,7 @@ nav_order: 4
 <h2>Invited Seminars and Small-Format Talks</h2>
 
 <ul>
-    <li> 2024 November, "Using TESS to Study GRBs and Other Transients." Observer Lunch, Northwestern/CIERA, Evanston, IL <i>(upcoming)</i></li>
+    <li> 2024 November, "Using TESS to Study GRBs and Other Transients." Observer Lunch, Northwestern/CIERA, Evanston, IL <i></i></li>
     <li> 2024 October, "Time-Domain Astrophysics with TESS." CCAPP Seminar, The Ohio State University, Columbus, OH <b style="color:#e63cf7">(invited)</b> </li>
     <li> 2024 October, "Detecting and Characterizing Gamma-Ray Bursts with TESS." Caltech Tea Talk, Pasadena, CA</li>
     <li> 2024 September, "Detecting and Characterizing Optical Transients with TESS." High-Energy Astrophysics Lunch, Cornell University, Ithaca, NY <b style="color:#e63cf7">(invited)</b> </li>
@@ -28,6 +28,9 @@ nav_order: 4
 <h4> Posters are marked in italics </h4>
 
 <ul>
+    <li> 2025 July, "Using TESS to Discover Tri-Axial Pulsators", Binary Stars in the Space Era, Keele University, UK</li>
+    <li> 2025 May, "Synergies between TESS and LSST", LSST TVS Workshop, Rio de Janeiro, Brazil</li>
+    <li> 2025 January, "Time-Domain Astrophysics with TESS" (dissertation talk), AAS 245, National Harbor, Maryland</li>
     <li> 2024 August, "Prompt Optical Emission from GRBs with TESS", Rise_Time, Purdue University, Indiana</li>
     <li> 2024 July, "TESS as a Multi-Messenger Observatory." TESS Science Conference 3, Boston, Massachusetts</li>
     <li> 2024 July, "Characterizing GRBs with TESS." TESS Science Conference 3, Boston, Massachusetts</li>

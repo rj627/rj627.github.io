@@ -2,35 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at the <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>
+subtitle: Klarman Fellow at Cornell University
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: rjayaram at mit dot edu
+  more_info: rj438 at cornell dot edu
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Rahul Jayaraman <a href="https://pronouns.org/what-and-why">(he/him)</a>, a 6th-year PhD student in the <a href="https://physics.mit.edu/">MIT Department of Physics</a>, and affiliated
-with the <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>. I use the
-<a href="https://tess.mit.edu">Transiting Exoplanet Survey Satellite</a> (TESS) to study things that are <i><b>not</b></i> exoplanets. 
+Hello! I'm Rahul Jayaraman <a href="https://pronouns.org/what-and-why">(he/him)</a>, a <a href="https://as.cornell.edu/research/klarman-fellowships">Klarman Fellow</a> in the College of Arts & Science at Cornell University. I received my PhD from the MIT
+Department of Physics in spring 2025, with a focus on time-domain astrophysics (transients and asteroseismology) using the 
+<a href="https://tess.mit.edu">Transiting Exoplanet Survey Satellite</a>.
 
-<b style="color:#46d51c">I will be starting as a <a href="https://as.cornell.edu/research/klarman-fellowships">Klarman Fellow</a> at Cornell University next year! Read about my planned research <a href="https://as.cornell.edu/news/new-klarman-fellows-join-college-arts-and-sciences">here</a>.</b>
+At Cornell,  I've begun working with the <a href="https://www.ztf.caltech.edu/">Zwicky Transient Facility</a> (ZTF) collaboration, on 
+synergies with TESS in the study of early- and late-time emission from a variety of transients. In particular, I'm interested in searching for
+interaction signatures in early-time light curves from supernovae, as well as constraining late-time flaring from luminous Fast
+Blue Optical Transients (LFBOTs). This follows my PhD work into the <a href="https://arxiv.org/abs/2308.05148">prompt 
+optical flash</a> that can often accompany gamma-ray bursts---a phenomenon that is extremely difficult to observe from the ground, 
+but can be <a href="https://arxiv.org/abs/2507.06285">combined with high-energy observations</a> to characterize the jet physics.
 
-Throughout my PhD, I've become an expert at analyzing all forms of TESS data for pretty much any astrophysical science case that
-involves studying photometric variability.
-My main scientific interest lies in <b>transient science and multi-messenger astronomy</b>. I'm especially interested in using TESS
-to find <a href="https://arxiv.org/abs/2308.05148">optical counterparts to gamma-ray bursts</a> and 
-<a href="https://arxiv.org/abs/2302.04881">gravitational-wave mergers</a> through the use of a transient search 
-pipeline for the TESS full-frame images. <b style="color:#f959c9">Currently, I'm working on combining high-energy observations of
-GRBs with optical data from TESS to better understand prompt emission from GRBs.</b> In addition to hunting for transients, I've 
-also been spearheading a search for ''<a href="https://arxiv.org/abs/2201.01722">tidally tilted pulsators</a>,'' binary systems in which
-the gravitational field of one star's companion strongly affects the "orientation" of its pulsations. These may be related
-to the phenomenon of ''tri-axial pulsations,'' where the tidal force induces pulsations 
-about all three stellar axes (see, e.g., <a href="https://arxiv.org/abs/2311.16248">here</a> and 
+I'm also interested in binary asteroseismology with TESS; in particular, I am studying how 
+the tidal forces from a tight binary companion can affect stellar pulsations, leading to 
+''<a href="https://arxiv.org/abs/2201.01722">tidally tilted pulsators</a>,''  and
+''tri-axial'' pulsations (see, e.g., <a href="https://arxiv.org/abs/2311.16248">here</a> and 
 <a href="https://arxiv.org/abs/2409.03815">here</a> for analyses of the first two TAPs discovered).
 
 I've been heavily involved in <a href='/service'>departmental service work</a>, having served as the President of the <a href="https://physics-gsc.scripts.mit.edu/home/">Physics
