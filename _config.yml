@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Rahul Jayaraman's personal website # the website title (if blank, full name will be used instead)
+title: Rahul Jayaraman # the website title (if blank, full name will be used instead)
 first_name: Rahul
 last_name: Jayaraman
 author: Rahul Jayaraman
-email: rjayaram@mit.edu
+email: rj438@cornell.edu
 tagline: Rahul Jayaraman's Personal Website | Astrophysics PhD Candidate, MIT
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The personal website for Rahul Jayaraman, an astrophysicist. Rahul is currently a graduate student at MIT, and will be joining the
-  Cornell Department of Astronomy as a Klarman Fellow in the Fall of 2025. He studies transients and tidal asteroseismology.
+  The personal website for Rahul Jayaraman, an astrophysicist. Rahul is currently a Klarman Fellow at Cornell University. 
+  He studies transients and tidal asteroseismology.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
