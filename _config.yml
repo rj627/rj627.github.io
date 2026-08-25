@@ -7,7 +7,7 @@ first_name: Rahul
 last_name: Jayaraman
 author: Rahul Jayaraman
 email: rj438@cornell.edu
-tagline: Rahul Jayaraman's Personal Website | Astrophysics PhD Candidate, MIT
+tagline: Rahul Jayaraman's Personal Website | Klarman Fellow, Cornell
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal website for Rahul Jayaraman, an astrophysicist. Rahul is currently a Klarman Fellow at Cornell University. 
   He studies transients and tidal asteroseismology.
@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: rj627 # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: ririfan001 # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -88,7 +88,7 @@ research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 flickr_id: # your flickr id
 blogger_url: # your blogger URL
-work_url: https://www.space.mit.edu/people/rahul-jayaraman/ # work page URL
+work_url: https://astro.cornell.edu/rahul-jayaraman # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
