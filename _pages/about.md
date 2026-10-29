@@ -47,4 +47,4 @@ Outside of astrophysics, I enjoy <a href="https://my.flightradar24.com/ririfan1"
 and travel</a>, rock climbing, fine dining, watching foreign TV shows, and listening 
 to EDM and hyperpop.
 
-<i style="color:red">This website was last updated on 24 August 2026</i>
+<i style="color:red">This website was last updated on 29 October 2026</i>

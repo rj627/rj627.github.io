@@ -22,13 +22,16 @@ nav_order: 4
     <li> 2024 July, "Characterizing GRBs with TESS." TESS Science Conference 3, Boston, Massachusetts</li>
     <li> 2024 January, "Studying GRBs and GW Events with TESS." Transients Down Under, Melbourne, Australia</li>
     <li> 2022 July, "Tidally Tilted Pulsations in Close Eclipsing Binaries." TASC6/KASC12, Leuven, Belgium</li>
-    <li> 2021 January, "Using Machine Learning to Detect Transients in TESS FFIs." AAS 237 (virtual)</li>
 </ul>
 
 <h2>Selected Seminars and Small-Format Talks</h2>
 
 <ul>
-    <li> 2026 September (upcoming) -- talks at MIT and Harvard CfA </li>
+    <li> 2026 October, "The Most Extreme Explosions in the Universe", Cornell Friends of Astronomy <b style="color:#e63cf7">(invited outreach talk)</b></li>
+    <li> 2026 September, "Synergies between TESS and Ground-Based Surveys for Transient Astronomy", TESS Science Talk Series</li>
+    <li> 2026 September, "Studying the Early and Late-Time Behavior of Fast, Blue Optical Transients", MIT Kavli Institute, Monday Afternoon Talks </li>
+    <li> 2026 September, "Studying the Early and Late-Time Behavior of Fast, Blue Optical Transients", Harvard CfA Transient Tea <b style="color:#e63cf7">(invited)</b> </li>
+    <li> 2026 September, "Studying the Aftermaths of LFBOTs with TESS and ZTF", Harvard ITC Lunch Seminar Series <b style="color:#e63cf7">(invited)</b> </li>
     <li> 2026 June, "Examining Extreme Explosions in X-rays", Astronomy on Tap, Ithaca, NY (outreach) </li>
     <li> 2024 November, "Using TESS to Study GRBs and Other Transients." Observer Lunch, Northwestern/CIERA, Evanston, IL <i></i></li>
     <li> 2024 October, "Time-Domain Astrophysics with TESS." CCAPP Seminar, The Ohio State University, Columbus, OH <b style="color:#e63cf7">(invited)</b> </li>
